@@ -1,3 +1,3 @@
-console.log("hello world");
+console.log('hello world')
 
-export const a = 2;
+export const a = 2
